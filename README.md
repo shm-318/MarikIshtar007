@@ -46,11 +46,7 @@
 ## Current Works
  * I'm currently working on 🔭 building **That one Project I can explain during my interview :))** and working up on polishing my skills 🌱 in **Competitive Programming**.
  * Getting Started with Machine Learning
- 
-## Other Stuff
-  - :octocat: [My Resume])
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=shm-318&show_icons=true&hide=[%22issues%22])
+![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shm-318&show_icons=true&hide=[%22issues%22])
  
  
